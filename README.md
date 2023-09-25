@@ -60,5 +60,5 @@ Alguns desafios que podem ser enfrentados ao desenvolver este projeto sÃ£o:
 
 Este projeto é um bom ponto de partida para o desenvolvimento de aplicações em Java Swing. Ele demonstra o básico do uso de Swing para criar uma interface gráfica simples.
 Tenho um projeto em que já está implementado as funcionalidades de CRUD, porém é um projeto web em Java.
-Ssim que tiver tempo, utilizarei os conceitos aprendidos no outro projeto neste e completarei os desafios acima.
+Assim que possível, utilizarei os conceitos aprendidos no outro projeto neste e completarei os desafios acima.
 Muito obrigado!
