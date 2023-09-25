@@ -16,6 +16,7 @@ O objetivo deste projeto é demonstrar o uso de Swing para criar uma interface g
 * **UsuarioDAO:** Classe que controla a tela de login.
 * **TelaUsuario:** Classe que representa a tela de cadastro de usuários.
 * **TelaLogin2:** Classe que representa a tela principal do sistema.
+* **mainMapaProgll** Classe Main da aplicação.
 
 **Banco de dados**
 
