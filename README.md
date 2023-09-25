@@ -14,7 +14,7 @@ O objetivo deste projeto é demonstrar o uso de Swing para criar uma interface g
 * **ConexaoJDBC:** Classe responsável por estabelecer a conexão com o banco de dados.
 * **UsuarioDAO:** Classe que controla a tela de cadastro de usuários.
 * **UsuarioDAO:** Classe que controla a tela de login.
-* **TelaCadastro:** Classe que representa a tela de cadastro de usuários.
+* **TelaUsuario:** Classe que representa a tela de cadastro de usuários.
 * **TelaLogin2:** Classe que representa a tela principal do sistema.
 
 **Banco de dados**
