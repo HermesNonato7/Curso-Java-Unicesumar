@@ -25,12 +25,12 @@ O banco de dados utilizado é um banco MySQL com a seguinte estrutura:
 CREATE SCHEMA `mapa` ;
 
 CREATE TABLE `mapa`.`usuario` (
-Â `id` INT NOT NULL AUTO_INCREMENT,
-Â `nome` VARCHAR(45) NULL,
-Â `login` VARCHAR(45) NULL,
-Â `senha` VARCHAR(45) NULL,
-Â `email` VARCHAR(45) NULL,
-Â PRIMARY KEY (`id`));
+ `id` INT NOT NULL AUTO_INCREMENT,
+ `nome` VARCHAR(45) NULL,
+ `login` VARCHAR(45) NULL,
+ `senha` VARCHAR(45) NULL,
+ `email` VARCHAR(45) NULL,
+ PRIMARY KEY (`id`));
 ```
 
 **Como executar**
